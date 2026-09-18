@@ -1,43 +1,95 @@
-# 👋 Software Developer | Delphi · SQL · Python · Cybersecurity
+# 👋 Desarrollador de Software | Delphi · SQL · Python · Ciberseguridad
 
-I am a software developer with a professional trajectory that started in **1996**, focused on desktop applications, databases, software maintenance and the evolution of legacy systems.
+📍 **Madrid, España**
 
-My current work combines **Delphi / Object Pascal**, SQL and database-driven applications with modern technologies such as **Python**, APIs and software modernization.
+Soy desarrollador de software con una trayectoria iniciada en **1996**, centrada en aplicaciones de escritorio, bases de datos, mantenimiento de software y evolución de sistemas existentes.
 
-I am also expanding my professional profile into **Cybersecurity, Blue Team and SOC**, while studying Cybersecurity at university level.
+Actualmente trabajo principalmente con **Delphi / Object Pascal**, SQL y aplicaciones orientadas a bases de datos, incorporando progresivamente tecnologías actuales como **Python, APIs y modernización de aplicaciones**.
+
+También estoy ampliando mi perfil profesional hacia la **Ciberseguridad, Blue Team y SOC**, mientras continúo mi formación universitaria en Ciberseguridad.
 
 🌐 **InformatOLI:** https://informatoli.org  
 💼 **LinkedIn:** https://www.linkedin.com/in/olies/
 
 ---
 
-## 💻 Main technical focus
+# 💻 Perfil técnico
 
-**Delphi / Object Pascal**
+## Delphi / Object Pascal
 
-Delphi 12 · VCL · FireMonkey · FireDAC · Windows applications · Android · OOP · maintenance and modernization of existing software
-
-**Databases**
-
-SQL · SQLite · Oracle · PL/SQL · relational data modelling · CRUD · parameterized queries · data access layers
-
-**Python**
-
-Automation · scripting · backend development · APIs · progressive modernization of desktop/legacy applications
-
-**Cybersecurity**
-
-Blue Team · SOC · security fundamentals · secure development · practical security for desktop environments
+• Delphi 12  
+• VCL  
+• FireMonkey  
+• FireDAC  
+• Aplicaciones Windows  
+• Desarrollo Android con Delphi  
+• Programación orientada a objetos  
+• Mantenimiento de aplicaciones  
+• Refactorización  
+• Modernización de software existente  
 
 ---
 
-# 🚀 Featured projects
+## Bases de datos
+
+• SQL  
+• SQLite  
+• Oracle  
+• PL/SQL  
+• Modelado relacional  
+• CRUD  
+• Consultas parametrizadas  
+• FireDAC  
+• Separación de la capa de acceso a datos  
+• Optimización progresiva de consultas y procesos  
+
+---
+
+## Python
+
+• Automatización  
+• Scripts  
+• Desarrollo de utilidades  
+• Backend  
+• APIs  
+• Integración con otros sistemas  
+
+Una de mis líneas de evolución es utilizar Python como complemento para modernizar e integrar aplicaciones existentes.
+
+---
+
+## Ciberseguridad
+
+• Blue Team  
+• SOC  
+• Seguridad defensiva  
+• Seguridad de sistemas  
+• Seguridad aplicada al usuario  
+• Desarrollo seguro  
+• Análisis práctico de configuraciones de seguridad  
+
+---
+
+# 🚀 Proyectos destacados
 
 ## 🛒 PC Shop — Delphi + SQLite
 
-Desktop management application developed with **Delphi 12.1, VCL, FireDAC and SQLite**.
+Aplicación de gestión desarrollada con:
 
-Current features include persistent CRUD, parameterized SQL queries, product search, validation and separation between UI, model and data-access layers.
+**Delphi 12.1 + VCL + FireDAC + SQLite**
+
+Actualmente incorpora:
+
+• CRUD persistente completo  
+• SQL parametrizado  
+• Búsqueda por código y nombre  
+• Validación de datos  
+• Control de duplicados  
+• Modelo `TProducto`  
+• `TObjectList<TProducto>`  
+• Data Module  
+• Separación entre interfaz, modelo y persistencia  
+• Depuración y resolución de errores reales  
 
 ➡️ https://github.com/101aero/pcshopPB
 
@@ -45,13 +97,25 @@ Current features include persistent CRUD, parameterized SQL queries, product sea
 
 ## 🗃️ DelphiDesk — Delphi + Oracle + PL/SQL
 
-Incident management project designed to practise and demonstrate an enterprise-oriented stack based on:
+Proyecto orientado a practicar y demostrar un entorno empresarial basado en:
 
 **Delphi + Oracle + PL/SQL**
 
-The project currently includes a Delphi VCL application, object-oriented domain model, Oracle relational schema and PL/SQL package with procedures, functions and business exceptions.
+Actualmente incluye:
 
-The next stage introduces Oracle access from Delphi through FireDAC.
+• Aplicación Delphi VCL  
+• Modelo orientado a objetos  
+• Separación entre interfaz, modelo y servicio  
+• Script relacional para Oracle  
+• Restricciones e integridad referencial  
+• Package PL/SQL  
+• Procedures  
+• Functions  
+• Parámetros IN / OUT  
+• Excepciones de negocio  
+• Registro local de errores  
+
+La evolución prevista incorpora acceso real a Oracle desde Delphi mediante **FireDAC**.
 
 ➡️ https://github.com/101aero/delphidesk
 
@@ -59,17 +123,30 @@ The next stage introduces Oracle access from Delphi through FireDAC.
 
 ## 📱 Destino 92 — Delphi + Android
 
-Adventure project developed with **Delphi, Object Pascal and FireMonkey**.
+Aventura desarrollada con:
 
-The application runs on Windows and has been compiled, deployed and tested as an **Android 64-bit APK on a real device**.
+**Delphi + Object Pascal + FireMonkey**
+
+El proyecto funciona en Windows y también ha sido:
+
+• Compilado para Android 64-bit  
+• Generado como APK  
+• Instalado en un dispositivo Android real  
+• Ejecutado y probado físicamente  
 
 ➡️ https://github.com/101aero/Destino92
+
+Guía relacionada:
+
+🌐 https://informatoli.org/desarrollar-app-para-android-desde-delphi/
 
 ---
 
 ## 🔷 DelphiHeaven Tips
 
-Practical Delphi / Object Pascal examples covering real development problems and solutions.
+Repositorio de ejemplos prácticos de **Delphi y Object Pascal**.
+
+Cada ejemplo documenta un problema concreto, la solución utilizada y los conceptos técnicos aplicados.
 
 ➡️ https://github.com/101aero/DelphiHeaven-Tips
 
@@ -77,40 +154,55 @@ Practical Delphi / Object Pascal examples covering real development problems and
 
 ---
 
-## 🐍 Python projects
+## 🐍 Proyectos Python
 
-I also develop small Python projects while progressively expanding towards automation and backend development.
+También desarrollo proyectos en Python mientras amplío progresivamente esta línea hacia automatización, backend e integración.
 
-Example:
+### Turno Nighty
 
-**Turno Nighty** — terminal-based narrative game written in Python.
+Juego narrativo para terminal desarrollado únicamente con Python y su biblioteca estándar.
+
+Incluye:
+
+• Sistema de decisiones  
+• Eventos aleatorios  
+• Guardado de partida  
+• Diferentes finales  
+• Gestión de estado  
+• Persistencia mediante JSON  
 
 ➡️ https://github.com/101aero/turnonighty
 
 ---
 
-# 🔄 Software modernization
+# 🔄 Modernización de software
 
-One of my main areas of interest is the evolution of existing applications.
+Una de las áreas que más me interesa profesionalmente es la evolución de aplicaciones existentes.
+
+No considero que una aplicación legacy deba sustituirse automáticamente.
+
+En muchos casos resulta más adecuado:
 
 ```text
-Existing desktop software
+Aplicación existente
         │
         ▼
 Delphi / Object Pascal
         │
-        ├── maintenance
-        ├── refactoring
-        ├── SQL / databases
-        └── business logic
+        ├── mantenimiento
+        ├── corrección de errores
+        ├── refactorización
+        ├── SQL / bases de datos
+        └── lógica de negocio
                 │
                 ▼
-        Modernization
+          Modernización
                 │
         ┌───────┴────────┐
         ▼                ▼
-   REST APIs          Python
+     REST API          Python
         │                │
         └───────┬────────┘
                 ▼
-          Modern backend
+       Nuevos servicios
+       e integraciones
