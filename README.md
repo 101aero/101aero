@@ -1,208 +1,73 @@
-# 👋 Desarrollador de Software | Delphi · SQL · Python · Ciberseguridad
+# 👋 Jose Antonio Olivares · Desarrollador de software | Delphi · SQL · Python · Ciberseguridad
 
-📍 **Madrid, España**
+📍 Madrid, España
 
-Soy desarrollador de software con una trayectoria iniciada en **1996**, centrada en aplicaciones de escritorio, bases de datos, mantenimiento de software y evolución de sistemas existentes.
+Desarrollador de software desde 1996, centrado en aplicaciones de escritorio, bases de datos, mantenimiento y evolución de sistemas existentes.
 
-Actualmente trabajo principalmente con **Delphi / Object Pascal**, SQL y aplicaciones orientadas a bases de datos, incorporando progresivamente tecnologías actuales como **Python, APIs y modernización de aplicaciones**.
+Trabajo principalmente con **Delphi / Object Pascal**, SQL y aplicaciones orientadas a bases de datos, incorporando **Python, APIs y modernización de aplicaciones** heredadas.
 
-También estoy ampliando mi perfil profesional hacia la **Ciberseguridad, Blue Team y SOC**, mientras continúo mi formación universitaria en Ciberseguridad.
+En paralelo amplío mi perfil hacia la **ciberseguridad defensiva (Blue Team / SOC)**: Grado en Criminología con mención en Ciberseguridad, Grado en Ingeniería de Ciberseguridad en curso y análisis de campañas de phishing y estafas digitales en CiberMuro.
 
-🌐 **InformatOLI:** https://informatoli.org  
-💼 **LinkedIn:** https://www.linkedin.com/in/olies/
-
----
-
-# 💻 Perfil técnico
-
-## Delphi / Object Pascal
-
-• Delphi 12  
-• VCL  
-• FireMonkey  
-• FireDAC  
-• Aplicaciones Windows  
-• Desarrollo Android con Delphi  
-• Programación orientada a objetos  
-• Mantenimiento de aplicaciones  
-• Refactorización  
-• Modernización de software existente  
+🌐 [informatoli.org](https://informatoli.org) · 🧱 [cibermuro.es](https://www.cibermuro.es) · 💼 [LinkedIn](https://www.linkedin.com/in/olies/)
 
 ---
 
-## Bases de datos
+## 🚀 Proyectos
 
-• SQL  
-• SQLite  
-• Oracle  
-• PL/SQL  
-• Modelado relacional  
-• CRUD  
-• Consultas parametrizadas  
-• FireDAC  
-• Separación de la capa de acceso a datos  
-• Optimización progresiva de consultas y procesos  
+### 🛒 [PC Shop](https://github.com/101aero/pcshopPB) — Delphi 12 · VCL · FireDAC · SQLite
+Aplicación de gestión (productos, inventario, ventas) con separación entre interfaz, modelo y persistencia mediante Data Module. SQL parametrizado, transacciones, control de stock y de duplicados, logs y diario de desarrollo semanal.
 
----
+### 🗃️ [DelphiDesk](https://github.com/101aero/delphidesk) — Delphi · PL/SQL (Oracle)
+Entorno de práctica empresarial: modelo orientado a objetos, capa de servicio, script relacional con integridad referencial y package PL/SQL con procedures, functions y excepciones de negocio. Conexión FireDAC a Oracle en desarrollo.
 
-## Python
+### 🧱 [CiberMuro](https://www.cibermuro.es) — Seguridad digital para usuarios
+Análisis de campañas reales de smishing, phishing y estafas en España: cómo reconocerlas, indicadores y qué hacer si has sido víctima. Guías de bastionado de Windows y Ubuntu.
 
-• Automatización  
-• Scripts  
-• Desarrollo de utilidades  
-• Backend  
-• APIs  
-• Integración con otros sistemas  
+### 🔷 [DelphiHeaven Tips](https://github.com/101aero/DelphiHeaven-Tips) — Object Pascal
+Ejemplos prácticos de Delphi. Cada uno documenta un problema concreto, la solución y los conceptos aplicados. Web: [delphiheaven.com](https://delphiheaven.com/)
 
-Una de mis líneas de evolución es utilizar Python como complemento para modernizar e integrar aplicaciones existentes.
+### 📱 [Destino 92](https://github.com/101aero/Destino92) — Delphi · FireMonkey · Android
+Aventura narrativa multiplataforma, compilada y probada en Android 64-bit. [Guía de despliegue Android desde Delphi](https://informatoli.org/desarrollar-app-para-android-desde-delphi/).
 
 ---
 
-## Ciberseguridad
+## 🧰 Stack
 
-• Blue Team  
-• SOC  
-• Seguridad defensiva  
-• Seguridad de sistemas  
-• Seguridad aplicada al usuario  
-• Desarrollo seguro  
-• Análisis práctico de configuraciones de seguridad  
+- **Delphi / Object Pascal:** Delphi 12, VCL, FireMonkey, FireDAC, Windows y Android, refactorización y mantenimiento de aplicaciones existentes.
+- **Bases de datos:** SQL, SQLite, Oracle, PL/SQL, modelado relacional, consultas parametrizadas, transacciones.
+- **Python:** automatización, utilidades, APIs e integración con sistemas existentes.
+- **Ciberseguridad:** análisis de phishing y smishing, bastionado de Windows y Linux, SOC Analyst Path (Hack The Box) en curso.
 
 ---
 
-# 🚀 Proyectos destacados
+## 🔄 Modernización de software
 
-## 🛒 PC Shop — Delphi + SQLite
-
-Aplicación de gestión desarrollada con:
-
-**Delphi 12.1 + VCL + FireDAC + SQLite**
-
-Actualmente incorpora:
-
-• CRUD persistente completo  
-• SQL parametrizado  
-• Búsqueda por código y nombre  
-• Validación de datos  
-• Control de duplicados  
-• Modelo `TProducto`  
-• `TObjectList<TProducto>`  
-• Data Module  
-• Separación entre interfaz, modelo y persistencia  
-• Depuración y resolución de errores reales  
-
-➡️ https://github.com/101aero/pcshopPB
-
----
-
-## 🗃️ DelphiDesk — Delphi + Oracle + PL/SQL
-
-Proyecto orientado a practicar y demostrar un entorno empresarial basado en:
-
-**Delphi + Oracle + PL/SQL**
-
-Actualmente incluye:
-
-• Aplicación Delphi VCL  
-• Modelo orientado a objetos  
-• Separación entre interfaz, modelo y servicio  
-• Script relacional para Oracle  
-• Restricciones e integridad referencial  
-• Package PL/SQL  
-• Procedures  
-• Functions  
-• Parámetros IN / OUT  
-• Excepciones de negocio  
-• Registro local de errores  
-
-La evolución prevista incorpora acceso real a Oracle desde Delphi mediante **FireDAC**.
-
-➡️ https://github.com/101aero/delphidesk
-
----
-
-## 📱 Destino 92 — Delphi + Android
-
-Aventura desarrollada con:
-
-**Delphi + Object Pascal + FireMonkey**
-
-El proyecto funciona en Windows y también ha sido:
-
-• Compilado para Android 64-bit  
-• Generado como APK  
-• Instalado en un dispositivo Android real  
-• Ejecutado y probado físicamente  
-
-➡️ https://github.com/101aero/Destino92
-
-Guía relacionada:
-
-🌐 https://informatoli.org/desarrollar-app-para-android-desde-delphi/
-
----
-
-## 🔷 DelphiHeaven Tips
-
-Repositorio de ejemplos prácticos de **Delphi y Object Pascal**.
-
-Cada ejemplo documenta un problema concreto, la solución utilizada y los conceptos técnicos aplicados.
-
-➡️ https://github.com/101aero/DelphiHeaven-Tips
-
-🌐 https://delphiheaven.com/
-
----
-
-## 🐍 Proyectos Python
-
-También desarrollo proyectos en Python mientras amplío progresivamente esta línea hacia automatización, backend e integración.
-
-### Turno Nighty
-
-Juego narrativo para terminal desarrollado únicamente con Python y su biblioteca estándar.
-
-Incluye:
-
-• Sistema de decisiones  
-• Eventos aleatorios  
-• Guardado de partida  
-• Diferentes finales  
-• Gestión de estado  
-• Persistencia mediante JSON  
-
-➡️ https://github.com/101aero/turnonighty
-
----
-
-# 🔄 Modernización de software
-
-Una de las áreas que más me interesa profesionalmente es la evolución de aplicaciones existentes.
-
-No considero que una aplicación legacy deba sustituirse automáticamente.
-
-En muchos casos resulta más adecuado:
+Una aplicación heredada no siempre debe sustituirse. En muchos casos es más adecuado mantenerla y hacerla evolucionar:
 
 ```text
 Aplicación existente
         │
         ▼
 Delphi / Object Pascal
-        │
-        ├── mantenimiento
-        ├── corrección de errores
+        ├── mantenimiento y corrección de errores
         ├── refactorización
         ├── SQL / bases de datos
         └── lógica de negocio
                 │
                 ▼
           Modernización
-                │
         ┌───────┴────────┐
         ▼                ▼
      REST API          Python
-        │                │
         └───────┬────────┘
                 ▼
-       Nuevos servicios
-       e integraciones
+       Nuevos servicios e integraciones
+```
+
+---
+
+## 🎓 Formación
+
+- Grado en Ingeniería de Ciberseguridad · UNIR (en curso)
+- Grado en Criminología, mención en Ciberseguridad · Universidad Isabel I (2024)
+- Ingeniería Técnica en Informática (2008) · FP II Informática de Gestión (1999)
